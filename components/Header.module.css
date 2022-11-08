@@ -1,0 +1,29 @@
+.header {
+    width: 1440px;
+    height: 81px;
+    background: #170C4A;
+    display: flex;
+}
+
+.logo {
+    padding: 21px 0 0 41px;
+    width: 65px;
+    height: 48.56px;
+}
+
+.menus{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 173px;
+    padding-top: 38px;
+    width: 100%;
+}
+
+.hruler {
+    width: 1440px;
+    height: 1px;
+    color: #A6D4FF;
+    opacity: 0.3;
+    margin: 0;
+}

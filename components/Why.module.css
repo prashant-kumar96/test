@@ -1,0 +1,63 @@
+.why {
+    margin-top: 51px;
+    margin-bottom: 55.64px;
+}
+
+.firstLine {
+    width: 524px;
+    height: 96px;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: #000000;
+    text-align: center;
+    margin: 0 auto 51px;
+
+}
+
+.secondLine {
+    margin: 0 40px ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.onecontent {
+    display: flex;
+    position: relative;
+    margin-left: 6px;
+    margin-bottom: 31px;
+}
+
+.heading {
+    margin-left: 18.79px;
+    width: 337px;
+    height: 39px;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 33px;
+    color: #000000;
+}
+
+.para {
+    width:501px;
+height: 92px;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+margin-left: 18.79px;
+}
+
+.diamond {
+    position: absolute;
+    top: 9px;
+}
+
+.parent {
+    margin-left: 5px;
+}
+
+.left {
+    padding-top:  23px;
+}

@@ -1,0 +1,46 @@
+.component2 {
+    background: #170C4A;;
+    height: 569px;
+}
+
+.buttondiv {
+    display: flex;
+    justify-content: center;    
+
+
+}
+.buttontop {
+    position: absolute;
+background: #20C3C5;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+
+color: #B4FEFF;
+padding: 11px 17px
+}
+
+.second {
+    display: flex;
+}
+
+.paradiv {
+    width: 703px;
+    height: 315px;
+    margin: 137px 0 0 41px;
+    font-weight: 800;
+font-size: 42px;
+line-height: 63px;
+color: #D2C2FF;
+}
+
+.blue {
+    color:#A6D4FF
+}
+
+.framediv {
+    margin-top: 87px;
+    margin-left: 88px;
+}

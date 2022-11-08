@@ -1,0 +1,28 @@
+.box{
+    width: 433px;
+    height: 267px;
+    background: #F7F9FB;
+    border-radius: 24px;
+    margin-right: 31px;
+    margin-bottom: 31px;
+    z-index: 1;
+}
+
+.heading {
+padding: 31px 0 0 24px;
+font-weight: 800;
+font-size: 22px;
+line-height: 33px;
+color: #000000;
+width: 385px;
+height: 33px;
+}
+.para {
+    padding: 12px 0 0 24px;
+    font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+width: 387px;
+height: 120px;
+}

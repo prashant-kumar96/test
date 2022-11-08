@@ -1,0 +1,199 @@
+.approach{
+    position: relative;;
+}
+
+.first {
+    width: 720px;
+    height: 450px;
+}
+
+.paraabsolute {
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 60px;
+    width: 719px;
+    height: 120px;
+    color: #7ABBF7;
+    position: absolute;
+    top: 96px;
+    right: 115px;
+}
+
+.paraabsolute p {
+    margin: 0;
+    width: 475px;
+    text-decoration: underline;
+}
+
+.para {
+    position: absolute;
+    width: 614px;
+    height: 90px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #000000;
+    right: 47px;
+    bottom: 94px;
+    margin: 0;
+}
+
+.second {
+    display: flex;
+}
+
+.left, .right {
+    width: 720px;
+    height: 450px;
+    position: relative;
+    background: #812CB8;
+    z-index: 1;
+
+}
+
+.right {
+    background: #1DBEEB !important;
+}
+
+.leftchild{
+    margin: 39px 0 0 163px;
+}
+
+.ellipse {
+    width: 65px;
+height: 65px;
+background: #591286;
+border-radius: 100%;
+}
+
+
+.heading1 {
+    width: 385px;
+height: 90px;
+
+font-weight: 800;
+font-size: 30px;
+line-height: 45px;
+
+color: #FFFFFF;
+margin: 29px 0;
+}
+
+.heading1 p {
+    width: 250px;
+}
+
+.para1 {
+    width: 395px;
+height: 168px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+
+color: #F2DEFF;
+}
+
+.groupIcon {
+
+    position: absolute;
+    top: 121.05px;
+    left: 180px;
+}
+
+.rectagle {
+    position: absolute;
+    width: 155px;
+    height: 534px;
+    right: 121px;
+    bottom: 171px;
+    background: linear-gradient(180deg, #A6D4FF 0%, #FFFFFF 100%);
+    transform: rotate(43.99deg);
+}
+
+.ellipsebig {
+    width: 452px;
+    height: 452px;
+    background: #86BFB5;
+    border-radius: 100%;
+    position: absolute;
+    bottom: -51px;
+    left: 493px;
+}
+
+.evolve {
+    width: 719px;
+    height: 120px;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+    color: #000000;
+    margin: auto;
+}
+
+.evolve p {
+    z-index: 10;
+    position: absolute;
+    margin: 21px auto;
+    width: 35%;
+    height: 120px;
+    text-align: center;
+    left: 471px;
+}
+
+.blue {
+    color: #2B6BE9;
+}
+
+.fourboxesparent {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.smallBox {
+    width: 316.94px;
+height: 274.28px;
+left: 40px;
+top: 3992px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 37px 4px rgba(0, 0, 0, 0.1);
+border-radius: 24px;
+}
+
+.content{
+    padding: 30.34px 0 0 17.57px;
+}
+
+
+.headingsmallbox {
+    width: 281.81px;
+height: 38.68px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 33px;
+
+color: #000000;
+}
+
+.parasmallbox{
+    width: 283.27px;
+height: 196.92px;
+left: 57.57px;
+top: 4061.08px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #000000;
+}

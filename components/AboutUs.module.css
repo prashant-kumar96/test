@@ -1,0 +1,131 @@
+.topmostdiv {
+display: flex
+}
+
+.aboutus{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    letter-spacing: 0.3em;
+    
+    color: #5A0368;
+}
+
+
+.left {
+    position: relative;
+    width: 50%;
+}
+.aboutusdiv{
+    margin: 53px 0 0 149px;
+}
+
+.abouthr{
+    width: 64px;
+    height: 4px;
+    background: #5A0368;
+    margin: 0;
+}
+
+.whatmakes {
+    position: absolute;
+    width: 720px;
+    height: 96px;
+    left: 149px;
+    top: 118px;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 48px;
+    color: #000000;
+    z-index: 2;
+}
+
+.hereat {
+    width: 614px;
+height: 150px;
+margin: 160px 0 0 38px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+
+color: rgba(0, 0, 0, 0.6);
+}
+
+.right {
+    width: 50%;
+    width: 720px;
+height: 508px;  
+background: #EBB11D;
+position: relative;
+}
+
+.rightpara {
+    width: 484px;
+    height: 378px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 42px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 57px;
+    right: 82px;
+}
+.middledivpara {
+    width: 719px;
+height: 120px;
+font-weight: 800;
+font-size: 40px;
+line-height: 60px;
+margin:  83px auto 0;
+color: #AB8DFF;
+}
+
+
+.middledivpara2 {
+    width: 614px;
+    height: 180px;
+
+    margin: 47px 0 0 541px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    
+    
+    color: #000000;
+}
+
+.thirddiv{
+    margin: 66px 23px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.leftrectangle {
+    position: absolute;
+    width: 155px;
+    height: 534px;
+    left: 20.75px;
+    top: 905px;
+    background: linear-gradient(180deg, #D2C2FF 0%, #FFFFFF 100%);
+    transform: matrix(-0.5, 0.87, 0.87, 0.5, 0, 0);
+}
+
+.rightRectangle{
+    position: absolute;
+    right: 119.86px;
+    top: 1321px;
+    background: linear-gradient(180deg, #D2C2FF 0%, #FFFFFF 100%);
+    transform: rotate(43.99deg);
+    width: 155px;
+    height: 534px;
+}
