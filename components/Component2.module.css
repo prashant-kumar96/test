@@ -27,13 +27,13 @@ padding: 11px 17px
 }
 
 .paradiv {
-    width: 703px;
+    width: 719px;
     height: 315px;
     margin: 137px 0 0 41px;
     font-weight: 800;
-font-size: 42px;
-line-height: 63px;
-color: #D2C2FF;
+    font-size: 42px;
+    line-height: 63px;
+    color: #D2C2FF;
 }
 
 .blue {
@@ -44,5 +44,5 @@ color: #D2C2FF;
 
 .framediv {
     margin-top: 87px;
-    margin-left: 88px;
+    margin-left: 80px;
 }

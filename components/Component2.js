@@ -21,11 +21,7 @@ const Component2 = () => {
         </div>
 
         <div className={styles.framediv}>
-<<<<<<< HEAD
           <Image src={"/Frame.png"} width="562" height="415" />
-=======
-          <Image src="/Frame.png" width="562" height="415" />
->>>>>>> e78e4404352dd78c22e51e6dbeb8a8545fcb6665
         </div>
       </div>
     </div>

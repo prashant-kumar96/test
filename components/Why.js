@@ -94,6 +94,17 @@ const Why = () => {
               Why should you choose Zyrop for your Mobile App Development needs?
             </p>
           </div>
+
+          <div className={styles.rightfirstline}>
+            India has been regarded as a trusted outsourcing service provider
+            and has achieved a leading position in mobile app development. Here
+            are some of the key reasons behind it-
+          </div>
+        </div>
+
+        <div className={styles.why2secondline}>
+          <div className={styles.thirdleft}></div>
+          <div className={styles.thirdright}></div>
         </div>
       </div>
     </>

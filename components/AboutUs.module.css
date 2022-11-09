@@ -31,6 +31,7 @@ display: flex
 
 .whatmakes {
     position: absolute;
+    z-index: 2;
     width: 720px;
     height: 96px;
     left: 149px;
@@ -39,22 +40,19 @@ display: flex
     font-size: 32px;
     line-height: 48px;
     color: #000000;
-    z-index: 2;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
 }
 
 .hereat {
     width: 614px;
-height: 150px;
-margin: 160px 0 0 38px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 18px;
-line-height: 30px;
-/* or 167% */
-
-
-color: rgba(0, 0, 0, 0.6);
+    height: 150px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: rgba(0, 0, 0, 0.6);
+    margin: 254px 0 0 38px;
+    font-style: normal;
 }
 
 .right {
@@ -77,13 +75,13 @@ position: relative;
     right: 82px;
 }
 .middledivpara {
-    width: 719px;
-height: 120px;
-font-weight: 800;
-font-size: 40px;
-line-height: 60px;
-margin:  83px auto 0;
-color: #AB8DFF;
+    width: 725px;
+    height: 120px;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 60px;
+    margin: 83px auto 0;
+    color: #AB8DFF;
 }
 
 

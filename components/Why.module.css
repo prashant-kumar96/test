@@ -31,7 +31,7 @@
 
 .heading {
     margin-left: 18.79px;
-    width: 337px;
+    width: 358px;
     height: 39px;
     font-weight: 800;
     font-size: 22px;
@@ -66,24 +66,39 @@ margin-left: 18.79px;
     width: 1440px;
 height: 683px;
 background: #E8F4FF;
-font-family: 'Poppins';
+
 }
 .why2firstline {
     display: flex;
+    position: relative;
 }
 
 .leftfirstline{
     width: 729px;
-height: 96px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 800;
-font-size: 32px;
-line-height: 48px;
-
-color: #7ABBF7;
+    height: fit-content;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 48px;
+    color: #7ABBF7;
 }
 
 .leftfirstline p{
-width: 600px;
+    width: 672px;
+    margin: 72px 0 0;
+}
+
+.rightfirstline {
+    position: absolute;
+    width: 614px;
+    height: 90px;
+    right: 36px;
+    top: 69px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.why2secondline {
+    margin-top: 100px;
 }
