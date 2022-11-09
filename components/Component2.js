@@ -21,7 +21,7 @@ const Component2 = () => {
         </div>
 
         <div className={styles.framediv}>
-          <Image src="/frame.png" width="562" height="415" />
+          <Image src="/Frame.png" width="562" height="415" />
         </div>
       </div>
     </div>
