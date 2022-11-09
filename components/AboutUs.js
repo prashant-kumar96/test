@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./AboutUs.module.css";
 import Box from "./Box";
-import Image from "next/Image";
+import Image from "next/image";
 
 const AboutUs = () => {
   const data = [
