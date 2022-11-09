@@ -61,3 +61,23 @@ margin-left: 18.79px;
 .left {
     padding-top:  23px;
 }
+
+.why2firstline {
+    display: flex;
+}
+
+.leftfirstline{
+    width: 729px;
+height: 96px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 48px;
+
+color: #7ABBF7;
+}
+
+.leftfirstline p{
+width: 600px;
+}
