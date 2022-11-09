@@ -61,7 +61,13 @@ margin-left: 18.79px;
 .left {
     padding-top:  23px;
 }
-
+.why2 {
+    padding: 0 26px 0 39px;
+    width: 1440px;
+height: 683px;
+background: #E8F4FF;
+font-family: 'Poppins';
+}
 .why2firstline {
     display: flex;
 }

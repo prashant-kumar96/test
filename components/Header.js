@@ -11,7 +11,9 @@ const Header = () => {
           <Image src="/white.png" width="65" height="49" />
         </div>
         <div className={styles.menus}>
-          <Link href="#">Mobile App Development</Link>
+          <Link href="#" className={styles.blue}>
+            Mobile App Development
+          </Link>
           <Link href="#">E-Commerce</Link>
           <Link href="#">DevOps Engineering</Link>
           <Link href="#">UI/UX</Link>

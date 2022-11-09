@@ -5,6 +5,10 @@
     display: flex;
 }
 
+.blue {
+    color: #A6D4FF;
+    border-bottom: 5px solid #A6D4FF;
+}
 .logo {
     padding: 21px 0 0 41px;
     width: 65px;
@@ -18,6 +22,7 @@
     margin-left: 173px;
     padding-top: 38px;
     width: 100%;
+    font-weight: 600;
 }
 
 .hruler {

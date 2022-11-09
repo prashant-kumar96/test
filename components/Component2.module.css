@@ -37,7 +37,9 @@ color: #D2C2FF;
 }
 
 .blue {
-    color:#A6D4FF
+    color: #A6D4FF;
+    border-bottom: 5px solid;
+    padding-bottom: 5px;
 }
 
 .framediv {
